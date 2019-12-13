@@ -1,0 +1,26 @@
+{
+  "name": "dorajs-goodle",
+  "displayName": "Goodle",
+  "version": "1.0.0",
+  "uuid": "9d06d495-3a94-4e80-a187-61d50c057b8e",
+  "description": "",
+  "icon": "assets/icon.svg",
+  "prefs": "assets/prefs.json",
+  "main": "main.js",
+  "license": "UNLICENSED",
+  "author": {
+    "name": "Hehoku"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "homepage": "",
+  "engines": {
+    "dora": ">=1.0.1"
+  },
+  "keywords": [
+    "Dora.js"
+  ],
+  "dependencies": {}
+}
